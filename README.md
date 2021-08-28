@@ -7,26 +7,26 @@
 
 ## About
 
-<img src="About.PNG" alt="About" />
+<img src="About.png" alt="About" />
 
 ## Home
 
-<img src="Home.JPG" alt="Home" /> 
+<img src="Home.png" alt="Home" /> 
 
 ## Login
 
-<img src="Login.JPG" alt="Login" /> 
+<img src="Login.png" alt="Login" /> 
 
 ## Sign Up
 
-<img src="Signup.JPG" alt="SignUp" /> 
+<img src="Signup.png" alt="SignUp" /> 
 
 ## Result for searching Data Structure Course
 
-<img src="res_DS.JPG" alt="Result" /> 
+<img src="res_DS.png" alt="Result" /> 
 
-<img src="res_DS2.JPG" alt="Result" /> 
+<img src="res_DS2.png" alt="Result" /> 
 
 ## Sorting the Result
 
-<img src="sorting.JPG" alt="Sort Result" /> 
+<img src="sorting.png" alt="Sort Result" /> 
