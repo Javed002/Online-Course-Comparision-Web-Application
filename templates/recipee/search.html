@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block body %}
+    <br><br>
+    <div class="container" xmlns="http://www.w3.org/1999/html">
+		<h3>
+			Here 0 stands for unrated courses...<br>
+			Fees : ____INR
+		</h3>
+        {% for i in re %}
+            <div class="a">
+				<h1><a href="http://www.udemy.com">Course Name: {{ i.0 }}<br></a></h1>
+				<h3>Duration: {{ i.1 }}</h3>
+				<h3>Fees: {{ i.2 }}</h3>
+				<h3>Rating: {{ i.3 }}&nbsp;<img src="{% static "recipee/index.png" %}" height="20px" width="20px"></h3>
+				<h4>Course Provider:{{ i.4 }}</h4>
+			</div>
+        {% endfor %}
+    </div>
+{% endblock body %}
