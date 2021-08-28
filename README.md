@@ -7,7 +7,7 @@
 
 ## About
 
-<img src="About.JPG" alt="About" />
+<img src="About.PNG" alt="About" />
 
 ## Home
 
